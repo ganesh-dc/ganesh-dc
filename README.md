@@ -1,4 +1,4 @@
-# Hi 👋 I'm Ganesh DC
+# Hi 👋 I'm Ganesh D.C.
 
 🎓 BIM Student  
 💻 Front-End Developer | Python Learner  
