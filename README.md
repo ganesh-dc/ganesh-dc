@@ -28,43 +28,6 @@ GitHub
 
 ---
 
-## Technologies I Use
-
-- HTML5  
-- CSS3  
-- JavaScript  
-- Python  
-- Git & GitHub  
-
----
-
-## Currently Learning
-
-- Advanced JavaScript  
-- Python Programming  
-- React.js  
-- Front-End Development Best Practices  
-
----
-
-## Projects
-
-Some projects I am working on:
-
-- Portfolio Website  
-- JavaScript To-Do App  
-- Weather App  
-- Python CLI Tools  
-
-More projects will be added as I continue learning and building.
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganesh-dc&show_icons=true)
-
----
 
 ## Connect With Me
 
